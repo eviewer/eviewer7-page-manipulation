@@ -20,8 +20,12 @@ offer an efficient way to edit documents directly within the viewer.
 Follow the steps below to run the eViewer Page Manipulations Sample:
 
 1.  Clone this repository and host it via an HTTP server.
-2.  Download the viewer static files from the **eViewer7 npm repo** into
-    the `viewer` folder. All viewer files should be placed in the root viewer folder.
+
+2.  Download the viewer static files from the [eViewer7 npm
+    repo](mailto:(https://www.npmjs.com/package/@mstechusa/eviewer7))
+    into the **viewer** folder. All viewer files should be placed in the
+    root viewer folder.
+	
 3.  Open **eViewerPage.html** in your browser to launch the viewer.
 
 ## Using Page Manipulations in eViewer
